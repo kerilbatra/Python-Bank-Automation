@@ -6,3 +6,7 @@ This project automates the processing of Kyrgyzstan bank statements and provides
 - Translates relevant text (if necessary).
 - Maps transactions to corresponding entities.
 - Provides download links for processed data files.
+
+
+- Python 3.12
+- Jupyter Notebook
