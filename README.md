@@ -8,5 +8,9 @@ This project automates the processing of Kyrgyzstan bank statements and provides
 - Provides download links for processed data files.
 
 
+## Requirements
+
 - Python 3.12
+- `pip` (Python package installer)
 - Jupyter Notebook
+
