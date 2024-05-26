@@ -1,4 +1,4 @@
-This project automates the processing of Kyrgyzstan bank statements and provides a Streamlit interface for processing and downloading transaction data.
+This project automates the processing of bank statements and provides a Streamlit interface for processing and downloading transaction data.
 
 ## Features
 
