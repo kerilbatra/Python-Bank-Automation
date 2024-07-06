@@ -107,7 +107,7 @@ def Asia_all_bank(pdf_path, entity_mapping, mapping_gl):
     #removing \n
 
     result_df = pd.DataFrame()
-    #Edit idher karna
+    
     master_df['transaction_entity'].fillna(0, inplace=True)
     master_df['transaction_entity'] = master_df['transaction_entity'].astype('int64')
     master_df['transaction_entity'] = master_df['transaction_entity'].astype('str')
