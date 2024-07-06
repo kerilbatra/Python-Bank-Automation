@@ -86,8 +86,8 @@ def Asia_all_bank(pdf_path, entity_mapping, mapping_gl):
     master_df['Transaction_Currency'] = 'KGS'
     master_df['Posted_Cuurency'] = 'KGS'
     master_df['Account_Currency'] = 'KGS'
-    master_df['Account_Number'] = '1030120000002658'
-    master_df['Account_Title'] = 'HERBION KYRGYZSTAN'
+    master_df['Account_Number'] = 'Your Account Number'
+    master_df['Account_Title'] = 'Your Account Title'
     master_df['Posting_Rate'] = ''
 
     # Specify the new column names
